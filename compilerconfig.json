@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "InBeccasName/css/styles.css",
+    "inputFile": "InBeccasName/css/styles.scss"
+  },
+  {
+    "outputFile": "InBeccasName/lib/MDB Pro/scss/mdb.css",
+    "inputFile": "InBeccasName/lib/MDB Pro/scss/mdb.scss"
+  },
+  {
+    "outputFile": "css/site.css",
+    "inputFile": "css/site.scss"
+  }
+]
